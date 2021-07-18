@@ -23,6 +23,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class Hibernate52Application {
 
 	public static void main(String[] args) {
+
 		SpringApplication.run(Hibernate52Application.class, args);
 	}
 
